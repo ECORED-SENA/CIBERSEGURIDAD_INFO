@@ -22,10 +22,19 @@ section
     p El manejo de los datos en el entorno mundial juega un papel fundamental en el desarrollo de las actividades cotidianas de empresas y en general del ámbito productivo; esto ha generado grandes ventajas en dado que la tecnología es la herramienta que soporta la gestión de datos, sin embargo, en la actualidad se ha notado que en las redes de datos e infraestructura tecnológica, aplicaciones informáticas y digitales ha ido aumentando la inseguridad, convirtiéndose en un problema crítico, por tanto la anticipación a este fenómeno es esencial y debe ser comprendido para poder administrar y gestionar los activos de información e infraestructura.
       br
       br
-      | De acuerdo al informe de IT RESEARCH PARA IT TRENDS 2019 que muestra las tendencias para la seguridad y los riesgos de información, cada vez crecen las dificultades para este ámbito, implica entonces tener una comprensión profunda de las herramientas de protección y la utilización de las mismas para blindar las organizaciones, esto obliga a tener un talento humano cualificado. Según el estudio de la Comisión de Regulación de Comunicaciones (CRC) y el Departamento Nacional de Planeación, plasmado en el CONPES 3854, proyecta que para el año 2020 se generarán alrededor de 307.000 empleos relacionados con la seguridad digital. El factor de éxito para mitigar los riesgos asociados a la Ciberseguridad es la educación como pilar fundamental, por ello es necesario propender por una formación de calidad y que cumpla con los retos que se presentan en la actualidad y en escenarios futuros, los cuales prospectivamente se prevé que tendrán un crecimiento exponencial.
+      | De acuerdo al informe de IT RESEARCH PARA IT TRENDS 2019 que muestra las tendencias para la seguridad y los riesgos de información, cada vez crecen las dificultades para este ámbito, implica entonces tener una comprensión profunda de las herramientas de protección y la utilización de las mismas para blindar las organizaciones, esto obliga a tener un talento humano cualificado. 
       br
       br
-      | En concordancia con las estrategias del Gobierno y su plan nacional de desarrollo 2018 2022, específicamente en el pacto por la transformación digital, y su línea de trabajo Promocionaremos una política de Estado para la transformación digital y el aprovechamiento de la cuarta revolución industrial, a través de la interoperabilidad de plataformas, contacto a través del portal único del estado, uso de tecnologías emergentes, seguridad digital, formación en talento digital, y fomento del ecosistema de emprendimiento, por ende el SENA liderará el proyecto de formación en Ciberseguridad atendiendo a la demanda constante de personal con competencias específicas en el área. El SENA conocedor de la necesidad del sector, ofrece este programa de formación complementaria, lo cual permite que los instructores fortalezcan las competencias técnicas, garantizando que estén capacitados, calificados y certificados para responder a estas necesidades de formación y poder aportar a la calidad y pertinencia de los aprendices en el mercado tecnológico y laboral nacional e internacional, alineado con las estrategias de gobierno y en concordancia al avance de las tecnologías a nivel mundial.
+      | Según el estudio de la Comisión de Regulación de Comunicaciones (CRC) y el Departamento Nacional de Planeación, plasmado en el CONPES 3854, proyecta que para el año 2020 se generarán alrededor de 307.000 empleos relacionados con la seguridad digital. 
+      br
+      br
+      | El factor de éxito para mitigar los riesgos asociados a la Ciberseguridad es la educación como pilar fundamental, por ello es necesario propender por una formación de calidad y que cumpla con los retos que se presentan en la actualidad y en escenarios futuros, los cuales prospectivamente se prevé que tendrán un crecimiento exponencial.
+      br
+      br
+      | En concordancia con las estrategias del Gobierno y su plan nacional de desarrollo 2018 2022, específicamente en el pacto por la transformación digital, y su línea de trabajo Promocionaremos una política de Estado para la transformación digital y el aprovechamiento de la cuarta revolución industrial, a través de la interoperabilidad de plataformas, contacto a través del portal único del estado, uso de tecnologías emergentes, seguridad digital, formación en talento digital, y fomento del ecosistema de emprendimiento, por ende el SENA liderará el proyecto de formación en Ciberseguridad atendiendo a la demanda constante de personal con competencias específicas en el área. 
+      br
+      br
+      | El SENA conocedor de la necesidad del sector, ofrece este programa de formación complementaria, lo cual permite que los instructores fortalezcan las competencias técnicas, garantizando que estén capacitados, calificados y certificados para responder a estas necesidades de formación y poder aportar a la calidad y pertinencia de los aprendices en el mercado tecnológico y laboral nacional e internacional, alineado con las estrategias de gobierno y en concordancia al avance de las tecnologías a nivel mundial.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
@@ -44,6 +53,15 @@ section
       br
       br
       | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+      br
+      br
+      | > El instructor - Tutor
+      br
+      | > El entorno
+      br
+      | > Las TIC
+      br
+      | > El trabajo colaborativo
 
 
   //- Créditos
